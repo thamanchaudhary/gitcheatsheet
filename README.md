@@ -1,8 +1,6 @@
 # Git Cheatsheet By Thaman Ram Chaudhary
-**Software Developer
-Cell: +977-9814618803,9742867915
-Softech Foundation Pvt. Ltd.
-Mid Baneshwor, Kathmandu, Nepal**
+        Cell: +977-9814618803,9742867915
+
 
 
 ##### For Config:
