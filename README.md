@@ -4,8 +4,8 @@
 
 
 ##### For Config:
-=> git config --global user.name "Bishworaj Poudel" 
-=> git config --global user.email "iambrp.tech@gmail.com"
+=> git config --global user.name "Thaman" 
+=> git config --global user.email "thamanchaudhary65@gmail.com"
 
 ##### To View  user.name and email
 git config --list 
